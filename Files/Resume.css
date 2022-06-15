@@ -1,0 +1,68 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background-color: #f5f5f5;
+  max-width: 800px;
+  margin: 50px;
+}
+
+h2 {
+  text-align: start;
+  color: #002657;
+  border-bottom: 2px solid #002657;
+  font-size: 14pt;
+}
+
+.name {
+  width: auto;
+  padding: 1px;
+  border: 10px inset #72bbce;
+  border-right-style: none;
+  border-bottom-style: none;
+}
+
+.contact {
+  text-align: start;
+  padding: 1px;
+  font-size: 12pt;
+}
+
+.overview {
+  text-align: start;
+  font-size: 10pt;
+}
+
+.list {
+  font-size: 10pt;
+  margin: 0;
+}
+
+.title {
+  text-transform: uppercase;
+  margin-right: 0;
+  display: inline-block;
+  font-weight: bold;
+  text-align: start;
+  font-size: 12pt;
+}
+
+.dates {
+  text-align: start;
+  margin-left: 40px;
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+.projects {
+  font-weight: bold;
+  text-align: start;
+  font-size: 12pt;
+}
+
+.edu {
+  font-weight: bold;
+  text-align: start;
+  font-size: 12pt;
+}
